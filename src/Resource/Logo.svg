@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="50"
+   height="50"
+   viewBox="0 0 13.229166 13.229167"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="D:\JavaFx\NotePad\src\Resource\ApplicationLogo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="4"
+     inkscape:cx="15.625"
+     inkscape:cy="-16.625"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g5172" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g5172"
+       inkscape:export-filename="D:\JavaFx\NotePad\src\Resource\App.png"
+       inkscape:export-xdpi="960"
+       inkscape:export-ydpi="960">
+      <rect
+         style="fill:#333333;fill-rule:evenodd;stroke-width:1.62637;paint-order:fill markers stroke"
+         id="rect4775"
+         width="15.959943"
+         height="15.959943"
+         x="-5.9199347"
+         y="-5.9199347"
+         ry="1.6536456"
+         rx="1.6536458"
+         inkscape:export-filename="D:\JavaFx\NotePad\src\Resource\App.png"
+         inkscape:export-xdpi="960"
+         inkscape:export-ydpi="960" />
+      <rect
+         style="fill:#4d4d4d;fill-rule:evenodd;stroke-width:1.62637;paint-order:fill markers stroke"
+         id="rect4457"
+         width="15.959943"
+         height="15.959943"
+         x="-6.9839311"
+         y="-6.9839311"
+         ry="1.6536456"
+         rx="1.6536458"
+         inkscape:export-filename="D:\JavaFx\NotePad\src\Resource\App.png"
+         inkscape:export-xdpi="960"
+         inkscape:export-ydpi="960" />
+      <rect
+         style="fill:#666666;fill-rule:evenodd;stroke-width:1.62637;paint-order:fill markers stroke"
+         id="rect4455"
+         width="15.959943"
+         height="15.959943"
+         x="-8.0479269"
+         y="-8.0479269"
+         ry="1.6536456"
+         rx="1.6536458"
+         inkscape:export-filename="D:\JavaFx\NotePad\src\Resource\App.png"
+         inkscape:export-xdpi="960"
+         inkscape:export-ydpi="960" />
+      <rect
+         style="fill:#cccccc;fill-rule:evenodd;stroke-width:1.62637;paint-order:fill markers stroke"
+         id="rect281"
+         width="15.959943"
+         height="15.959943"
+         x="-9.1119232"
+         y="-9.1119232"
+         ry="1.6536456"
+         rx="1.6536458"
+         inkscape:export-filename="D:\JavaFx\NotePad\src\Resource\App.png"
+         inkscape:export-xdpi="960"
+         inkscape:export-ydpi="960" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2.64583333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -4.6398142,0.65581494 H 2.3759106"
+         id="path400"
+         inkscape:export-filename="D:\JavaFx\NotePad\src\Resource\App.png"
+         inkscape:export-xdpi="960"
+         inkscape:export-ydpi="960" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2.64583333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -4.6065644,-6.3757071 H 2.3426607"
+         id="path584"
+         inkscape:export-filename="D:\JavaFx\NotePad\src\Resource\App.png"
+         inkscape:export-xdpi="960"
+         inkscape:export-ydpi="960" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2.64583333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -3.5010059,4.1715761 H 1.2371022"
+         id="path586"
+         inkscape:export-filename="D:\JavaFx\NotePad\src\Resource\App.png"
+         inkscape:export-xdpi="960"
+         inkscape:export-ydpi="960" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2.64583333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -7.1381468,-3.1417361 H 4.8742431"
+         id="path590"
+         inkscape:export-filename="D:\JavaFx\NotePad\src\Resource\App.png"
+         inkscape:export-xdpi="960"
+         inkscape:export-ydpi="960" />
+    </g>
+  </g>
+</svg>
